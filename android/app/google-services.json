@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555000510828",
+    "project_id": "hassan-ms",
+    "storage_bucket": "hassan-ms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555000510828:android:863678601ecbd500555b49",
+        "android_client_info": {
+          "package_name": "com.example.medical_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555000510828-74k0inr668p63jigt0oar72huo1bl7c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Sq9KnZdgTUzOAuGjlluhwDPdrOEBRok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555000510828-74k0inr668p63jigt0oar72huo1bl7c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
